@@ -2,7 +2,7 @@
 #include <unistd.h>
 /**
  * main - main block
- * Return: 0
+ * Return: 1
  */
 int main(void)
 {
