@@ -1,7 +1,7 @@
-#include <time.h>
+#include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/*
+/**
  * main - main block
  * Description: Assign a random number to the
  * variable n each time it is executed. Print
