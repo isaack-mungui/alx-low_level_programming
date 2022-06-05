@@ -1,9 +1,9 @@
 #include <stdio.h>
-/*
+/**
  * main - main block
  * Description: Print all base 16 numbers,
  * followed by a new line.
- * Return 0
+ * Return: 0
  */
 int main(void)
 {
