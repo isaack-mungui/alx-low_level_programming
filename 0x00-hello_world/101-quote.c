@@ -2,6 +2,9 @@
 #include <unistd.h>
 /**
  * main - main block
+ * Description: Print text, followed
+ * by a new line to the standard
+ * error.
  * Return: 1
  */
 int main(void)
