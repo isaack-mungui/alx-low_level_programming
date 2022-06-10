@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - check for a digit
- * @n: number of \\ characters to be 
+ * @n: number of \\ characters to be
  * printed
  * Retrun: void
  */
@@ -14,7 +14,7 @@ void print_diagonal(int n)
 	while (i < n && n > 0)
 	{
 		ii = 0;
-		while(ii < i)
+		while (ii < i)
 		{
 			_putchar(' ');
 			ii++;
