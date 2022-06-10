@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * main - entry block
+ * Description: Print 1 to 100 and return
+ * Fizz, Buzz or FizzBuzz if conditions are met
+ * Return: 0
+ */
+
 int main(void)
 {
 	int i;
@@ -15,4 +22,6 @@ int main(void)
 		else
 			printf("%d ", i);
 	}
+
+	return (0);
 }
