@@ -2,7 +2,7 @@
 #include <math.h>
 
 /**
- * main - main blick
+ * main - main block
  * Return: Always 0
  */
 
