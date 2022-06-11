@@ -5,7 +5,8 @@ This repository features projects on low-level programming using the C language.
 ## Getting Started
 
 These instructions will get you a copy of the project on your local machine.
-`git clone (https://github.com/isaack-mungui/alx-low_level_programming.git)`
+
+* `git clone (https://github.com/isaack-mungui/alx-low_level_programming.git)`
 
 ## Prerequisites
 
@@ -32,4 +33,4 @@ To perform documentation and coding style tests on your source code, Betty is us
 
 ### File descriptions
 
-* 0x00-hello_world
+* [0x00-hello_world]
