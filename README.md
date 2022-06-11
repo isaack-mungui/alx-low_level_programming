@@ -1,8 +1,8 @@
-# ALX Low-level Programming
+# Low-level Programming
 
 This repository features projects on low-level programming using the C language. As a general rule of thumb, C is a low-level programming language which means that it provides no abstration from the hardware.
 
-# Getting Started
+## Getting Started
 
 These instructions will get you a copy of the project on your local machine.
 
@@ -13,7 +13,7 @@ These instructions will get you a copy of the project on your local machine.
 This is what you need in order to get a local copy of this repository.
 
 * A Text Editor, such as Visual Studio Code, Atom or Brackets.
-* Have Git installed on your computer>
+* Have Git installed on your computer.
 
 ### Installation
 
