@@ -2,7 +2,7 @@
 
 This repository features projects on low-level programming using the C language. As a general rule of thumb, C is a low-level programming language which means that it provides no abstration from the hardware.
 
-## Getting Started
+# Getting Started
 
 These instructions will get you a copy of the project on your local machine.
 
@@ -31,6 +31,10 @@ To perform documentation and coding style tests on your source code, Betty is us
 
 * `betty <filename.c>`
 
-### File descriptions
+### Folder descriptions
 
-* [0x00-hello_world]
+* [0x00-hello_world](./0x00-hello_world)
+* [0x01-variables_if_else_while](0x01-variables_if_else_while)
+* [0x02-functions_nested_loops](0x02-functions_nested_loops)
+* [0x03-debugging](0x03-debugging)
+* [0x04-more_functions_nested_loops](0x04-more_functions_nested_loops/)
