@@ -23,13 +23,13 @@ How to get a copy of the repository on you local machine:
 
 ### Compiling source code
 
-`gcc -Wall -pedantic -Werror -Wextra -std=gnu89 <filename.c> -o <filename>`
+* `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 <filename.c> -o <filename>`
 
-Example: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-preprocessor.c -o 0-preprocessor`
+* Example: `gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-preprocessor.c -o 0-preprocessor`
 
 ## Execute output file
 
-`./<filename>` Example:  `./0-preprocessor`
+* `./<filename>` Example:  `./0-preprocessor`
 
 ### Coding style tests
 
