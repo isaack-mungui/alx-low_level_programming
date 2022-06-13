@@ -3,7 +3,8 @@
 
 /**
  * swap_int - swaps the values of two integers
- * @a, @b - integer pointers to variables to be swapped
+ * @a: integer pointer to a variable
+ * @b: integer pointer to a vraiable
  *
  * Return: Nothing.
  */
