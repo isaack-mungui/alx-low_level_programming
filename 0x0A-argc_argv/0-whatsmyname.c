@@ -1,6 +1,15 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/**
+ * main - entry point
+ *
+ * @argc: number of arguments
+ * @argv: array of arguments
+ *
+ * Return: int
+ */
+
 int main(int argc, char *argv[])
 {
 	int i;
@@ -9,6 +18,6 @@ int main(int argc, char *argv[])
 	{
 		printf("%s\n", argv[i]);
 	}
-	
+
 	return (0);
 }
