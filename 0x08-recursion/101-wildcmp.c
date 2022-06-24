@@ -5,7 +5,8 @@ char *postfix_match(char *str, char *postfix);
 void iterate_wild(char **wildstr);
 int strlen_no_wilds(char *str);
 
-/**wild_cmp - compared two strings to
+/**
+ * wildcmp - compared two strings to
  * check if they are identical.
  *
  * @s1: first string
