@@ -8,7 +8,7 @@
  *
  * @str: string to be duplicated.
  *
- * Return: NULL if `str` = NULL | _stdrup returns a 
+ * Return: NULL if `str` = NULL | _stdrup returns a
  * pointer to the duplicated string on success | NULL
  * if insufficient memory was available.
  */
