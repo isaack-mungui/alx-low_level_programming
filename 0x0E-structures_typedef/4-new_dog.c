@@ -62,7 +62,7 @@ int _strlen(char *s)
 }
 
 /**
- * _strcpy - copies a pointed string
+ * _strcopy - copies a pointed string
  * @dest: pointer to the destine string
  * @src: pointer to the source string
  * Return: the adress of the destiny string
