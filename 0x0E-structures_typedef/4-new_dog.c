@@ -1,6 +1,11 @@
 #include "dog.h"
 #include <stdio.h>
 #include <stdlib.h>
+
+dog_t *new_dog(char *name, float age, char *owner);
+int _strlen(char *str);
+char *_strcopy(char *dest, char *src);
+
 /**
  * new_dog - create new data structure for dog
  * @name: name of dog
@@ -9,6 +14,7 @@
  *
  * Return: Pointer to new dog
  **/
+
 dog_t *new_dog(char *name, float age, char *owner)
 {
 	dog_t *new_dog;
